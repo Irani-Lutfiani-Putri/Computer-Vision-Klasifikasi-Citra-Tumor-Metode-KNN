@@ -9,5 +9,9 @@ Dataset yang digunakan adalah **Brain Tumor Dataset** yang berisi fitur-fitur st
 - Contrast
 - dan lain-lain
 Target klasifikasi:
-**- 0 → No Tumor
-- 1 → Tumor**
+- 0 → No Tumor
+- 1 → Tumor
+# ⚙️ Teknologi yang Digunakan
+- **Bahasa:** Python
+- **Library Utama:**
+- > Scikit-Learn: Untuk pemodelan KNN dan evaluasi model
