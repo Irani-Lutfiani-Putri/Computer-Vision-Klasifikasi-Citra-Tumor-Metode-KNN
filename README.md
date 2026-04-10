@@ -8,6 +8,7 @@ Dataset yang digunakan adalah **Brain Tumor Dataset** yang berisi fitur-fitur st
 - Homogeneity
 - Contrast
 - dan lain-lain
+
 Target klasifikasi:
 - 0 → No Tumor
 - 1 → Tumor
