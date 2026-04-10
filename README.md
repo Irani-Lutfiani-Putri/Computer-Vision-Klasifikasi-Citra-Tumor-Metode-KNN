@@ -31,3 +31,5 @@ Target klasifikasi:
 - 2318023IraniLutfianiPutriKlasifikasiCitraTumorMetodeKNN.ipynb
 - Brain Tumor.csv
 - README.md
+# Kontak
+Dibuat oleh Irani Lutfiani Putri - [linkedin.com/in/irani-lutfiani-8ba4b4331](https://www.linkedin.com/in/irani-lutfiani-8ba4b4331/?skipRedirect=true)
