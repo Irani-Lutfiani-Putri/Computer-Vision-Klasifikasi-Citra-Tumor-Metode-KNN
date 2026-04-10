@@ -14,4 +14,4 @@ Target klasifikasi:
 # ⚙️ Teknologi yang Digunakan
 - **Bahasa:** Python
 - **Library Utama:**
-- : Scikit-Learn: Untuk pemodelan KNN dan evaluasi model
+    - Scikit-Learn: Untuk pemodelan KNN dan evaluasi model
