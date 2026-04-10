@@ -32,4 +32,4 @@ Target klasifikasi:
 - Brain Tumor.csv
 - README.md
 # Kontak
-Dibuat oleh Irani Lutfiani Putri - linkedin.com/in/irani-lutfiani-8ba4b4331
+Dibuat oleh Irani Lutfiani Putri - https://www.linkedin.com/in/irani-lutfiani-8ba4b4331/?skipRedirect=true
